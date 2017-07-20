@@ -1,0 +1,25 @@
+ATK：Attack 物理攻擊力
+MATK/MAG：Magic Attack 魔法攻擊力
+DEF：Defense 物理防禦力
+MDEF：Magic Defense 魔法防禦力
+HP：Health Point 生命值/血量
+MP：Magic Point (Mana) 魔力值/瑪那值
+EXP：Experience 經驗值
+Crit：Critical 爆擊率 (也有Crit = Critical hits 爆擊的說法)
+Critical hit：爆擊
+Dmg：Damage 傷害
+Reg：Regen 回血/回魔
+AS：Attack Speed 攻擊速度
+MS：Movement Speed 移動速度
+CD：cool down 冷卻時間
+RNG：Range 攻擊範圍
+Hate：仇恨值
+DPS：Damage per second 每秒輸出傷害
+Combo：連擊數
+CP：charge point 憤怒值、怒氣值
+HIT：命中率 (跟Flee都不知道是不是我們需要的)
+Flee：迴避率
+
+參考了很多網頁
+這個最詳細
+http://www.wmon.com.tw/RO/status.htm
